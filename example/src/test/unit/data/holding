@@ -1,0 +1,6 @@
+post/create rectangle
+curl -X POST -H "Content-Type: application/json" -d "{\"width\":22,\"height\":22}" localhost:8000/rectangle/
+
+todo
+test modify
+test delete
